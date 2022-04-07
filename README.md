@@ -7,6 +7,6 @@ Sabemos que a maior parte do conteúdo disponível na internet hoje pode se torn
 Você receberá um código com o projeto desenvolvido durante a Fase 02, mas, ao contrário do que foi feito em aula, ele **não** apresenta a semântica correta.
 Como você pode ver na imagem abaixo, a página ~~(exceto o botão)~~ continua funcionando normalmente mas, quando você abrir o código, vai se deparar com os elementos do HTML todos bagunçados... **👀**
 
-![Imagem do Projeto Final Corrigido]()
+![Imagem do Projeto Final Corrigido](https://github.com/Clara-Pacheco/Desafio_Rocketseat--Nivel2_Explorer--Semantica_acessibilidade/blob/main/images/final_project.png)
 
 Feito com 💜 por Rocketseat 👋
